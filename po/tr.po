@@ -1,4 +1,3 @@
-# SPDX-FileCopyrightText: 2025 thunder <batuhan55uysalar34@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: lutris\n"
