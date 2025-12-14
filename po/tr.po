@@ -1,10 +1,17 @@
+# Tunahan Yardımcı <tunahanyrd@gmail.com>\n
+# Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr\n
+# Gökhan GÖKKAYA <gokhanlnx@gmail.com\n
+# Mahmut Elmas <mahmutelmas@gmail.com>\n
+# Ömer Gündoğar <omer670067@gmail.com>\n
+# Halil Murat Ünay\n
+
 msgid ""
 msgstr ""
 "Project-Id-Version: lutris\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-25 17:38+0300\n"
 "PO-Revision-Date: 2025-08-01 00:10+0300\n"
-"Last-Translator: Batuhan Uysalar <batuhan55uysalar34@gmail.com>\n"
+"Last-Translator: Tunahan Yardımcı <tunahanyrd@gmail.com>\nYunusemre Şentürk <yunusemre.senturk@pardus.org.tr\nGökhan GÖKKAYA <gokhanlnx@gmail.com\nMahmut Elmas <mahmutelmas@gmail.com>\nÖmer Gündoğar <omer670067@gmail.com>\nHalil Murat Ünay\nBatuhan Uysalar <batuhan55uysalar34@gmail.com>\n"
 "Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
